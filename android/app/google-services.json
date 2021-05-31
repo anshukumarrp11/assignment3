@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608535402215",
+    "project_id": "assignment-3862a",
+    "storage_bucket": "assignment-3862a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608535402215:android:00860291971b21db543442",
+        "android_client_info": {
+          "package_name": "com.example.apayfrontendd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608535402215-ti79ik0045m6ihjis78b8opfivd66gd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD62zn741QVcbeRVO5nx1_hThJDCWwvqrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608535402215-ti79ik0045m6ihjis78b8opfivd66gd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
